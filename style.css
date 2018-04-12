@@ -1,0 +1,25 @@
+body {
+    margin-top: 5%!important;
+    margin-left: 4%!important;
+    margin-right: 4%!important;
+}
+
+.thumbnail {
+    width: 83%;
+    font-size: 0.95em;
+}
+
+ul{
+	text-align: left;
+	list-style: inside!important;
+}
+
+#list{
+	padding-left: 20%;
+	padding-right: 20%;
+}
+
+blockquote{
+	font-size: 2em;
+	font-family: monospace;
+}
